@@ -1,2 +1,0 @@
-# shadow-chess
-hola caracola
