@@ -1,4 +1,5 @@
-#Shadow Chess
+# Shadow Chess
+
 **Introducción**
 
 El objetivo de este proyecto es crear un juego de ajedrez donde las fichas de tu oponente estén ocultas.
