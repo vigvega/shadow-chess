@@ -1,7 +1,5 @@
 function sombraTorre(){
-        document.getElementById("rojeando1").style.backgroundColor = "red";
-        document.getElementById("rojeando2").style.backgroundColor = "red";
-        document.getElementsByClassName("cuadrado").style.backgroundColor = "blue";
+        document.getElementsByClassName("pawn").style.backgroundColor = "red";
     }
 var colum_tablero = new Array(8);
 
